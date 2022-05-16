@@ -11,3 +11,9 @@ Goals ~ Management: Time, Projects, Target.
 - **A**: [Actionable](https://github.com/Anlominus/Studies/blob/main/Time%20Management.md#a-achievable) Attainable and not impossible to achieve
 - **R**: [Relevant](https://github.com/Anlominus/Studies/blob/main/Time%20Management.md#r-relevant) Within reach, realistic, and relevant to your life purpose
 - **T**: [Time Bound](https://github.com/Anlominus/Studies/blob/main/Time%20Management.md#t-time-bound) With a clearly defined timeline, including a starting date and a target date. The purpose is to create urgency.
+
+---
+
+Planning
+
+Implementation
