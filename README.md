@@ -34,6 +34,4 @@ Goals ~ Management: Time, Projects, Target.
 
 ---
 
-Planning
-
-Implementation
+- ## ~> [`Bug-Bounty`](https://github.com/Anlominus/Bug-Bounty) <~
