@@ -34,4 +34,13 @@ Goals ~ Management: Time, Projects, Target.
 
 ---
 
+- [ ] ToDo
+  - [ ] [PenTest](https://github.com/Anlominus/PenTest) `BETA`
+  - [ ] [HacKingPro](https://github.com/Anlominus/HacKingPro) `BETA`
+  - [ ] [KoTH](https://github.com/Anlominus/TryHackMe/tree/main/King%20of%20the%20Hill/KoTH) `BETA`
+  - [ ] [Diablo](https://github.com/Anlominus/Diablo) `BETA`
+  - [ ] [ScanPro](https://github.com/Anlominus/ScanPro) `BETA`
+  - [ ] [Linfo](https://github.com/Anlominus/Linfo) `BETA`
+  - [ ] []() `BETA`
+
 - ## ~> [`Bug-Bounty`](https://github.com/Anlominus/Bug-Bounty) <~
