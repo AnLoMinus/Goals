@@ -51,5 +51,8 @@ Goals ~ Management: Time, Projects, Target.
     - [ ] [RedTeam](https://github.com/AnLoMinus/RedTeam) `BETA`
     - [ ] [BlueTeam](https://github.com/AnLoMinus/BlueTeam) `BETA`
     - [ ] [PurpleTeam](https://github.com/AnLoMinus/PurpleTeam) `BETA`
-  - [ ] []() `BETA`
+  - [ ] [Privilege-Escalation](https://github.com/AnLoMinus/Privilege-Escalation) `BETA`
+    - [ ] [Linux-PrivEsc](https://github.com/AnLoMinus/Linux-PrivEsc) `BETA`
+    - [ ] [Windows-PrivEsc](https://github.com/AnLoMinus/Windows-PrivEsc) `BETA`
+    - [ ] []() `BETA`
 - ## ~> [`Bug-Bounty`](https://github.com/Anlominus/Bug-Bounty) <~
