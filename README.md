@@ -39,13 +39,17 @@ Goals ~ Management: Time, Projects, Target.
 
 ---
 
-- [ ] ToDo
-  - [ ] [PenTest](https://github.com/Anlominus/PenTest) `BETA`
+## ToDo 🎯
   - [ ] [HacKingPro](https://github.com/Anlominus/HacKingPro) `BETA`
-  - [ ] [KoTH](https://github.com/Anlominus/TryHackMe/tree/main/King%20of%20the%20Hill/KoTH) `BETA`
-  - [ ] [Diablo](https://github.com/Anlominus/Diablo) `BETA`
+  - [ ] [PenTest](https://github.com/Anlominus/PenTest) `BETA`
   - [ ] [ScanPro](https://github.com/Anlominus/ScanPro) `BETA`
+  - [ ] [Diablo](https://github.com/Anlominus/Diablo) `BETA`
   - [ ] [Linfo](https://github.com/Anlominus/Linfo) `BETA`
+  - [ ] [KoTH](https://github.com/Anlominus/TryHackMe/tree/main/King%20of%20the%20Hill/KoTH) `BETA`
+  - [ ] [Cyber-Security](https://github.com/AnLoMinus/Cyber-Security) `BETA`
+  - [ ] [AnyTeam](https://github.com/AnLoMinus/AnyTeam) `BETA`
+    - [ ] [RedTeam](https://github.com/AnLoMinus/RedTeam) `BETA`
+    - [ ] [BlueTeam](https://github.com/AnLoMinus/BlueTeam) `BETA`
+    - [ ] [PurpleTeam](https://github.com/AnLoMinus/PurpleTeam) `BETA`
   - [ ] []() `BETA`
-
 - ## ~> [`Bug-Bounty`](https://github.com/Anlominus/Bug-Bounty) <~
