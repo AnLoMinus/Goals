@@ -38,6 +38,10 @@ Goals ~ Management: Time, Projects, Target.
 - **T**: [Time Bound](https://github.com/Anlominus/Studies/blob/main/Time%20Management.md#t-time-bound) With a clearly defined timeline, including a starting date and a target date. The purpose is to create urgency.
 
 ---
+ 
+ - Building Desktop HacKingApp 
+ 
+---
 
 ## ToDo 🎯
   - [ ] [HacKingPro](https://github.com/Anlominus/HacKingPro) `BETA`
